@@ -51,7 +51,7 @@ void KeyScan_MsgEvent(uint8 ins, KeyScan_MsgTypeEnum msgType)
 	if (KEY_SCAN_INS_KEY3 == ins) {    //++
 		if (KEYMSG_SHORT_RELEASE == msgType || KEYMSG_LONG_RELEASE == msgType) {
 			if (0 == KeySetSwitch) {
-				MATH_NUM_ADD_LIMIT(Param_Info.BusVolt, 1, VBUS_MAX);
+				MATH_NUM_ADD_LIMIT(KeySetNum1, 1, VBUS_MAX);
 			} else {
 				MATH_NUM_ADD_LIMIT(KeySetNum2, 1, IBUS_MAX);
 			}
