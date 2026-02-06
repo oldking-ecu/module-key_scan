@@ -8,7 +8,7 @@
 
 #### 软件架构
 
-详情见B站网址:<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115955459952714&bvid=BV1vCzDBYEoJ&cid=35606168383&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+详情见B站网址:[keel框架案例分析-Key_scan模块](https://www.bilibili.com/video/BV1vCzDBYEoJ/?share_source=copy_web&vd_source=64c3d4dffc93e47357ce5ad280f13d59)
 
 
 #### 使用说明
