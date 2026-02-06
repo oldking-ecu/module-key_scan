@@ -8,7 +8,7 @@
 
 #### 软件架构
 
-详情见B站网址:
+详情见B站网址:<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115955459952714&bvid=BV1vCzDBYEoJ&cid=35606168383&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
 #### 使用说明
